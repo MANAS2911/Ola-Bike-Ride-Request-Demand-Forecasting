@@ -19,19 +19,15 @@ A machine learning-powered forecasting system built using Python that predicts t
 
 ## 📁 Project Structure
 
-Ola-Bike-Demand-Forecasting/
-│
-├── dataset/                      # Input dataset (bike_rentals.csv)
-├── eda_visualizations/           # Generated EDA plots and graphs
-├── model/                        # Saved trained models
-├── src/
-│   ├── data_preprocessing.py     # Data cleaning and transformation scripts
-│   ├── feature_engineering.py    # Custom feature creation logic
-│   ├── train_model.py            # Model training and stacking ensemble code
-│   ├── evaluate_model.py         # Model evaluation and RMSLE computation
-│
-├── requirements.txt              # Dependencies
-└── README.md                     # Project documentation
+Ola-Bike-Demand-Forecasting
+- dataset (train.csv/test.csv)
+- eda_visualizations           (Generated EDA plots and graphs)
+- model                       (Saved trained models)
+- data_preprocessing     (Data cleaning and transformation scripts)
+- feature_engineering    (Custom feature creation logic)
+- train_model            (Model training and stacking ensemble code)
+- evaluate_model       (Model evaluation and RMSLE computation)
+- README.md                     (Project documentation)
 
 ---
 
