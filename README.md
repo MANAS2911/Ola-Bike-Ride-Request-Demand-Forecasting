@@ -1,4 +1,4 @@
-# Ola-Bike-Ride-Request-Demand-Forecast
+# Ola-Bike-Ride-Request-Demand-Forecasting
 Data analytics has helped companies optimize and grow their performance for 
 decades. Data analytics and visualization has aided us with several benefits, few of 
 them being identifying emerging trends, studying relationships and patterns in data, 
